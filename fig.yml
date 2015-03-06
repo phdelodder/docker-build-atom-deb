@@ -1,0 +1,4 @@
+atombuilder:
+  build: .
+  volumes:
+    - output/:/src/output
